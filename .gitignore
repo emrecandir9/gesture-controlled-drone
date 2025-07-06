@@ -19,7 +19,6 @@ drone_media/
 *.avi
 *.jpg
 *.jpeg
-*.png
 
 # Jupyter Notebook Checkpoints
 .ipynb_checkpoints/
