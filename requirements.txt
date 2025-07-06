@@ -1,0 +1,14 @@
+numpy
+opencv-python
+dronekit
+pymavlink
+pyserial
+mediapipe
+tensorflow
+customtkinter
+Pillow
+imutils
+scikit-learn
+pandas
+seaborn
+matplotlib

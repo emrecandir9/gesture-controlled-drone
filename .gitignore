@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+venv/
+env/
+.env/
+.venv/
+
+# IDE and Editor Folders
+.vscode/
+.idea/
+
+# Generated Media and Data
+drone_media/
+*.avi
+*.jpg
+*.jpeg
+*.png
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# OS-specific
+.DS_Store
+Thumbs.db
