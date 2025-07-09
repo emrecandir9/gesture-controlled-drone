@@ -181,7 +181,7 @@ Here is a look at the main Graphical User Interface (GUI) during operation.
 
 <img src="assets/gui.png" width="800"/>  
 
-## LICENSE
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
