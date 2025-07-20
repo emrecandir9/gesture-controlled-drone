@@ -169,7 +169,7 @@ Once the setup is complete, run the main application from the root directory:
 
 ```bash
 
-python main_file.py
+python main.py
 
 ```
 
